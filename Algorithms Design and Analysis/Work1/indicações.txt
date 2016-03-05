@@ -1,0 +1,41 @@
+Conteúdo dos Relatórios
+Os relatórios deverão focar os seguintes pontos, de forma clara e sucinta.
+
+   1. Apresentação do Problema
+
+          * Breve descrição do problema.
+
+   2. Resolução do Problema
+
+          * Formalização e resolução do problema.
+
+   3. Implementação do Algoritmo
+
+          * Identificação da técnica de desenho de algoritmos escolhida (sempre que se aplicar).
+
+          * Breve apresentação das interfaces e das classes criadas.
+
+          * Escolha justificada das estruturas de dados usadas.
+
+          * Chamada de atenção para todos os pontos importantes do código.
+
+   4. Análise do Algoritmo
+
+          * Estudo das complexidades temporal e espacial, no melhor caso, no pior caso e no caso esperado. (Usem "letras" diferentes para representar "quantidades" diferentes.)
+
+          * Estudo da complexidade amortizada, sempre que for interessante.
+
+   5. Conclusões
+
+          * Pontos fortes e fracos da vossa solução.
+
+          * Alternativas estudadas ou que mereciam ser estudadas.
+
+          * Possíveis melhoramentos.
+
+   6. Anexo
+
+          * Código fonte completo (exactamente igual ao da última submissão aceite pelo Mooshak).
+
+Conselho: Não cometam erros básicos de programação. Por exemplo, usem sempre as interfaces (se existirem) para definir os tipos dos objectos, não criem tabelas de dispersão com a capacidade por omissão, garantam a independência entre a funcionalidade da aplicação e as sintaxes de entrada dos dados e de saída dos resultados, etc.
+Última alteração: Quinta, 24 Fevereiro 2011, 15:46

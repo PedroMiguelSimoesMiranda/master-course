@@ -1,0 +1,13 @@
+
+\subsection{Complexidade Amortizada}
+
+\begin{tabular}{|c|ccc|r|}
+	\hline
+Opera\c{c}ões &  Custo Real    &   Diferen\c{c}a de Potencial  & Custo Amortizado     \\
+   & {\boldmath$\Phi$}(Ci) & {\boldmath$\Phi$}(Ci)-{\boldmath$\Phi$}(Ci-1) & \^{C}i =Ci+ {\boldmath$\Delta$}{\boldmath$\Phi$}   \\
+	\hline
+find   &  &  &     \\
+union   & & &   \\
+
+	\hline
+\end{tabular}

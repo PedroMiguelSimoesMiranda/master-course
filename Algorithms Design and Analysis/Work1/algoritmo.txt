@@ -1,0 +1,15 @@
+chamada inicial custo da origem ao ponto 1 + C(0,capacity-W0)      é o q se faz na main o system.ou.println
+
+interior do algoritmo:
+
+i==N-1  -> posso apenas escolher regressar da entrega
+	return cost(regressar de n-1 à origem)
+i<N-1
+duas alternativas
+escolher o minimo entre as alternativas geradas pelas duas
+
+1. -> regressar da entrega dos pacotes ja adquiridos, nesse caso
+     somar o regresso do ponto actual á origem e ainda C(i+1,capacidade LIMPA)
+2. -> significa que não quero regressar logo, kero fazer mais entregas, se possivel
+	somar cost(i,i+1) + C(i+1, capacidade -Wi)
+	
